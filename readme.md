@@ -10,7 +10,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-1. Clone the github repo
-2. Download and install docker
-3. run `docker-compose up` to run the application on docker
-4. Now check if the backend and frontend is working correctly
+**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
